@@ -1,0 +1,37 @@
+Banco de dados Tabela clientes:
+	
+	codigo
+	nome
+	numero
+	complemento
+	tel_com
+	tel_cel
+	tel_res
+	tel_recados
+	rg
+	cpf
+	sexo
+	
+	nascimento
+	cep
+fumante'
+
+
+ Caixas de texto
+
+	txtloca
+	txtbairro
+	txtcidade
+			txtfcres
+			txtfcrecados
+			txtfccomercial
+			txtfccel
+			txtramal
+
+	Mask
+
+
+
+
+
+

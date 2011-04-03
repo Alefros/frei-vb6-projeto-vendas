@@ -1,0 +1,63 @@
+Line 16: Class MSFlexGridLib.MSFlexGrid of control mfgcli was not a loaded control class.
+Line 111: Class MSMask.MaskEdBox of control mskres was not a loaded control class.
+Line 124: Class MSMask.MaskEdBox of control mskrecados was not a loaded control class.
+Line 137: Class MSMask.MaskEdBox of control mskcomercial was not a loaded control class.
+Line 150: Class MSMask.MaskEdBox of control mskcel was not a loaded control class.
+Line 293: Class MSMask.MaskEdBox of control mskrg was not a loaded control class.
+Line 306: Class MSMask.MaskEdBox of control mskcpf was not a loaded control class.
+Line 319: Class MSMask.MaskEdBox of control msknascimento was not a loaded control class.
+Line 413: Class MSMask.MaskEdBox of control mskcep was not a loaded control class.
+Line 22: The property name _ExtentX in mfgcli is invalid.
+Line 23: The property name _ExtentY in mfgcli is invalid.
+Line 24: The property name _Version in mfgcli is invalid.
+Line 25: The property name Cols in mfgcli is invalid.
+Line 26: The property name ScrollBars in mfgcli is invalid.
+Line 27: The property name FormatString in mfgcli is invalid.
+Line 117: The property name _ExtentX in mskres is invalid.
+Line 118: The property name _ExtentY in mskres is invalid.
+Line 119: The property name _Version in mskres is invalid.
+Line 120: The property name MaxLength in mskres is invalid.
+Line 121: The property name Mask in mskres is invalid.
+Line 122: The property name PromptChar in mskres is invalid.
+Line 130: The property name _ExtentX in mskrecados is invalid.
+Line 131: The property name _ExtentY in mskrecados is invalid.
+Line 132: The property name _Version in mskrecados is invalid.
+Line 133: The property name MaxLength in mskrecados is invalid.
+Line 134: The property name Mask in mskrecados is invalid.
+Line 135: The property name PromptChar in mskrecados is invalid.
+Line 143: The property name _ExtentX in mskcomercial is invalid.
+Line 144: The property name _ExtentY in mskcomercial is invalid.
+Line 145: The property name _Version in mskcomercial is invalid.
+Line 146: The property name MaxLength in mskcomercial is invalid.
+Line 147: The property name Mask in mskcomercial is invalid.
+Line 148: The property name PromptChar in mskcomercial is invalid.
+Line 156: The property name _ExtentX in mskcel is invalid.
+Line 157: The property name _ExtentY in mskcel is invalid.
+Line 158: The property name _Version in mskcel is invalid.
+Line 159: The property name MaxLength in mskcel is invalid.
+Line 160: The property name Mask in mskcel is invalid.
+Line 161: The property name PromptChar in mskcel is invalid.
+Line 299: The property name _ExtentX in mskrg is invalid.
+Line 300: The property name _ExtentY in mskrg is invalid.
+Line 301: The property name _Version in mskrg is invalid.
+Line 302: The property name MaxLength in mskrg is invalid.
+Line 303: The property name Mask in mskrg is invalid.
+Line 304: The property name PromptChar in mskrg is invalid.
+Line 312: The property name _ExtentX in mskcpf is invalid.
+Line 313: The property name _ExtentY in mskcpf is invalid.
+Line 314: The property name _Version in mskcpf is invalid.
+Line 315: The property name MaxLength in mskcpf is invalid.
+Line 316: The property name Mask in mskcpf is invalid.
+Line 317: The property name PromptChar in mskcpf is invalid.
+Line 325: The property name _ExtentX in msknascimento is invalid.
+Line 326: The property name _ExtentY in msknascimento is invalid.
+Line 327: The property name _Version in msknascimento is invalid.
+Line 328: The property name MaxLength in msknascimento is invalid.
+Line 329: The property name Mask in msknascimento is invalid.
+Line 330: The property name PromptChar in msknascimento is invalid.
+Line 419: The property name _ExtentX in mskcep is invalid.
+Line 420: The property name _ExtentY in mskcep is invalid.
+Line 421: The property name _Version in mskcep is invalid.
+Line 422: The property name MaxLength in mskcep is invalid.
+Line 423: The property name Mask in mskcep is invalid.
+Line 424: The property name PromptChar in mskcep is invalid.

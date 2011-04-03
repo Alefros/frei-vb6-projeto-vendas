@@ -1,0 +1,30 @@
+If tab_uf.RecordCount <> 0 Then
+               MsgBox "Atenção! Esta unidade já foi cadastrada, por favor, verificar.", vbExclamation
+               Exit Sub
+            End If
+
+
+
+
+
+
+
+ tab_cid.Close
+                tab_cid.Open "select * from cidades where nome ='" & txt_Cid & "'"   '* = seleção de todos os campos da entidade/ seleciona todos os campos da entidade ufs, onde o nome for igual ao que é digitado na caixinha de texto ;  '2ª instrução em SQL''
+                If tab_uf.RecordCount = 0 Then
+                    MsgBox ("Esta cidade não esta cadastrada, por favor verificar!"), vbExclamation
+                End If
+                Exit Sub
+                tab_cid.Open "select * from cidades where nome ='" & txt_Cid & "'"   '* = seleção de todos os campos da entidade/ seleciona todos os campos da entidade ufs, onde o nome for igual ao que é digitado na caixinha de texto ;  '2ª instrução em SQL''
+            If tab_uf.RecordCount <> 0 Then
+               MsgBox "Atenção! Esta cidade já foi cadastrada, por favor, verificar.", vbExclamation
+               Exit Sub
+            End If
+                l_codcid = tab_cid!codigo
+               conectar.Execute "Update cidades set nome = '" & txt_Cid & "' where codigo =" & l_codcid           '4ª instrução em SQL'
+            conectar.Execute "select * from cidades where nome ='" & txt_Cid & "'"    '* = seleção de todos os campos da entidade/ seleciona todos os campos da entidade ufs, onde o nome for igual ao que é digitado na caixinha de texto ;  '2ª instrução em SQL''
+            If tab_cid.RecordCount <> 0 Then
+               MsgBox "Atenção! Esta cidades já foi cadastrada, por favor, verificar.", vbExclamation
+               Exit Sub
+            End If
+                    
